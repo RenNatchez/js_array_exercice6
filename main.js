@@ -1,19 +1,16 @@
         // exo 1
-// let tab = ['pomme', 'fraise', 'melon', 'citron']
-// console.log(tab)
-// tab.shift()
-// console.log(tab)
-// tab.push('banane')
-// console.log(tab)
-// tab.unshift("kiwy")
-// console.log(tab)
-// let maj = tab[1].toUpperCase()
-// console.log(tab[1].toUpperCase())
-// console.log(tab)
-// let tabv2 = tab.map(tab => tab[1].toUpperCase())
-// console.log(tabv2)
-// tab = tab.reverse()
-// console.log(tab)
+let tab = ['pomme', 'fraise', 'melon', 'citron']
+console.log(tab)
+tab.shift()
+console.log(tab)
+tab.push('banane')
+console.log(tab)
+tab.unshift("kiwy")
+console.log(tab)
+tab[1] = tab[1].toUpperCase()
+console.log(tab)
+tab = tab.reverse()
+console.log(tab)
         // exo 2
 // let chiffres = [4, 5, 2, 1, 3]
 // console.log(chiffres)
